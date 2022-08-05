@@ -46,7 +46,6 @@ function changetodolist(a){
       }
       console.log(changetext);
       console.log(a.target.parentElement);
-      console.log(a.target.parentElement.);
 
     }
   
